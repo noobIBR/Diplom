@@ -40,7 +40,6 @@ namespace Server2.Controllers
                         equipment = lang == "ru" ? a.equipment : a.equipment_eng,
                     })
                     .ToListAsync();
-
                 string data = string.Join("\n", result.Select(r => $"{r.aud_name}, {r.Audtype}, {r.campus}, {r.floor}, {r.aud_num}, {r.Insts}, {r.workplaces_num}, {r.equipment}"));
                 _logger.LogInformation("Data: {Data}", data);
                 return data;

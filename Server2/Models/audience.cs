@@ -22,11 +22,11 @@ namespace Server2.Models
         public string? equipment { get; set; }
 
         [ForeignKey("Insts")]
-        public int inst_id { get; set; }
+        public int? inst_id { get; set; }
         public Insts? inst_ { get; set; }
 
         [ForeignKey("Deps")]
-        public int dep_id { get; set; }
+        public int? dep_id { get; set; }
         public Deps? dep_ { get; set; }
 
         public string? equipment_eng { get; set; }

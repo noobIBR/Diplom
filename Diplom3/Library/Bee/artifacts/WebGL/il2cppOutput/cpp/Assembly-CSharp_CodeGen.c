@@ -12,6 +12,8 @@
 
 
 
+extern void Appear_change_scene_button_Update_m58E73468FDF7159F750CA31BDB70C5B8B919F7F4 (void);
+extern void Appear_change_scene_button__ctor_m1D1E9BE712C5ECBF712EAAB581580AC36702BA63 (void);
 extern void Apply_material_to_subtoggle_Start_m81F971CA1B2E2B8C52D83A49F96A7D5D4466A60F (void);
 extern void Apply_material_to_subtoggle_ApplyMaterialToObjects_m426E2BAB45871FAA0E59E461E806C7946F85F187 (void);
 extern void Apply_material_to_subtoggle_GetAudtypeidFromServer_m2A538D5995E372E187220B4D64113812EDC5053A (void);
@@ -32,6 +34,8 @@ extern void Camera_limit_LateUpdate_m12F1F35575666049941024758E63090C05876501 (v
 extern void Camera_limit__ctor_mC5FFDF8D86E80BABC47F1F89C577D752C4D160D1 (void);
 extern void Change_scene_LoadSceneByIndex_mECC0BDEB468DE565D1DA60A4890DABEC514C65E5 (void);
 extern void Change_scene__ctor_m05DC92B1F0404E7CF38ABA5D9A218B13A2B8BCCE (void);
+extern void Change_scene_by_number_and_campus_LoadScene_mDE960B6BB9EADA906BB5CDDC48742EDABF1748AA (void);
+extern void Change_scene_by_number_and_campus__ctor_mBC7771C5E5FF8CA7F8C17DBACC93AE26FCAECBF3 (void);
 extern void Get_data_OnMouseDown_mD234550F061C58D1B8BCD1311DA916496032F347 (void);
 extern void Get_data_GetDataFromServer_m8983A49BEB58D5A025704C6FA3A87D44BACDC08A (void);
 extern void Get_data_ParsingData_m0B0D40FEF1B659BFC49366FE07BC80465C75990E (void);
@@ -45,6 +49,19 @@ extern void U3CGetDataFromServerU3Ed__6_MoveNext_m553B6F59420C561C2F3398050C62DA
 extern void U3CGetDataFromServerU3Ed__6_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mA944A07CF7DFF24D2DAA363B99EE4DEB98368B58 (void);
 extern void U3CGetDataFromServerU3Ed__6_System_Collections_IEnumerator_Reset_mDF85EBD7F35AAD84EE249A828754C084D8CA7C17 (void);
 extern void U3CGetDataFromServerU3Ed__6_System_Collections_IEnumerator_get_Current_m7DBDA754B385A558CB25C00E79EA695074AA8EC9 (void);
+extern void Get_data_to_search_by_number_OnSubmit_m0E24371BD2F5EF935939D041099BCEA81278DF54 (void);
+extern void Get_data_to_search_by_number_GetDataFromServer_m14111F56CA19AD9AE4A9DB6B7F541F2F6AAF2F36 (void);
+extern void Get_data_to_search_by_number_ParsingData_m1F29348DAF4399D20A1A7A860C3B8B97C7DFD92B (void);
+extern void Get_data_to_search_by_number__ctor_m0676D86B07A0831CE05A78019CE5A6C9923CE1B2 (void);
+extern void U3CU3Ec__cctor_m617FC0D18CE4F8C8E5390E56F90E59B843A57766 (void);
+extern void U3CU3Ec__ctor_mEA94AC3AA3EB0DB104C21A1E03330C8BBF818274 (void);
+extern void U3CU3Ec_U3CParsingDataU3Eb__6_0_mCFCC0A14422610383093B56C0E1F2BF222EF8F9F (void);
+extern void U3CGetDataFromServerU3Ed__5__ctor_mE6713787E919BFE4603A02DDF7719E9A3292D13B (void);
+extern void U3CGetDataFromServerU3Ed__5_System_IDisposable_Dispose_m100C126FF6CD8DC23C849B2624FE9835976A467A (void);
+extern void U3CGetDataFromServerU3Ed__5_MoveNext_m9CE4051D8FB7A235534EEAB0C17F60117ADA6E16 (void);
+extern void U3CGetDataFromServerU3Ed__5_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mEEFA8CF744021755DBBCE43CC96FFEA863490FC7 (void);
+extern void U3CGetDataFromServerU3Ed__5_System_Collections_IEnumerator_Reset_mD81356F66A8B8A7C827B9B790F4A662877A60903 (void);
+extern void U3CGetDataFromServerU3Ed__5_System_Collections_IEnumerator_get_Current_m4BBA4BB15891813BA38458D4F7AFAA6C8BE1C919 (void);
 extern void Loading_animation_StartLoading_m1C65E2A4018DC55A652D8EFA0EA3740FF6231635 (void);
 extern void Loading_animation_LoadingCoroutine_m65897B8790261113863318A80AC43DBE2CB1875D (void);
 extern void Loading_animation__ctor_mBD9E319B3C8AE35D72BBAAEBF36AE5122C2713B2 (void);
@@ -333,8 +350,10 @@ extern void U3CWarpTextU3Ed__8_MoveNext_mCE7A826C5E4854C2C509C77BD18F5A9B6D691B0
 extern void U3CWarpTextU3Ed__8_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mD80368E9B7E259311C03E406B75161ED6F7618E3 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42 (void);
 extern void U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19 (void);
-static Il2CppMethodPointer s_methodPointers[321] = 
+static Il2CppMethodPointer s_methodPointers[338] = 
 {
+	Appear_change_scene_button_Update_m58E73468FDF7159F750CA31BDB70C5B8B919F7F4,
+	Appear_change_scene_button__ctor_m1D1E9BE712C5ECBF712EAAB581580AC36702BA63,
 	Apply_material_to_subtoggle_Start_m81F971CA1B2E2B8C52D83A49F96A7D5D4466A60F,
 	Apply_material_to_subtoggle_ApplyMaterialToObjects_m426E2BAB45871FAA0E59E461E806C7946F85F187,
 	Apply_material_to_subtoggle_GetAudtypeidFromServer_m2A538D5995E372E187220B4D64113812EDC5053A,
@@ -355,6 +374,8 @@ static Il2CppMethodPointer s_methodPointers[321] =
 	Camera_limit__ctor_mC5FFDF8D86E80BABC47F1F89C577D752C4D160D1,
 	Change_scene_LoadSceneByIndex_mECC0BDEB468DE565D1DA60A4890DABEC514C65E5,
 	Change_scene__ctor_m05DC92B1F0404E7CF38ABA5D9A218B13A2B8BCCE,
+	Change_scene_by_number_and_campus_LoadScene_mDE960B6BB9EADA906BB5CDDC48742EDABF1748AA,
+	Change_scene_by_number_and_campus__ctor_mBC7771C5E5FF8CA7F8C17DBACC93AE26FCAECBF3,
 	Get_data_OnMouseDown_mD234550F061C58D1B8BCD1311DA916496032F347,
 	Get_data_GetDataFromServer_m8983A49BEB58D5A025704C6FA3A87D44BACDC08A,
 	Get_data_ParsingData_m0B0D40FEF1B659BFC49366FE07BC80465C75990E,
@@ -368,6 +389,19 @@ static Il2CppMethodPointer s_methodPointers[321] =
 	U3CGetDataFromServerU3Ed__6_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mA944A07CF7DFF24D2DAA363B99EE4DEB98368B58,
 	U3CGetDataFromServerU3Ed__6_System_Collections_IEnumerator_Reset_mDF85EBD7F35AAD84EE249A828754C084D8CA7C17,
 	U3CGetDataFromServerU3Ed__6_System_Collections_IEnumerator_get_Current_m7DBDA754B385A558CB25C00E79EA695074AA8EC9,
+	Get_data_to_search_by_number_OnSubmit_m0E24371BD2F5EF935939D041099BCEA81278DF54,
+	Get_data_to_search_by_number_GetDataFromServer_m14111F56CA19AD9AE4A9DB6B7F541F2F6AAF2F36,
+	Get_data_to_search_by_number_ParsingData_m1F29348DAF4399D20A1A7A860C3B8B97C7DFD92B,
+	Get_data_to_search_by_number__ctor_m0676D86B07A0831CE05A78019CE5A6C9923CE1B2,
+	U3CU3Ec__cctor_m617FC0D18CE4F8C8E5390E56F90E59B843A57766,
+	U3CU3Ec__ctor_mEA94AC3AA3EB0DB104C21A1E03330C8BBF818274,
+	U3CU3Ec_U3CParsingDataU3Eb__6_0_mCFCC0A14422610383093B56C0E1F2BF222EF8F9F,
+	U3CGetDataFromServerU3Ed__5__ctor_mE6713787E919BFE4603A02DDF7719E9A3292D13B,
+	U3CGetDataFromServerU3Ed__5_System_IDisposable_Dispose_m100C126FF6CD8DC23C849B2624FE9835976A467A,
+	U3CGetDataFromServerU3Ed__5_MoveNext_m9CE4051D8FB7A235534EEAB0C17F60117ADA6E16,
+	U3CGetDataFromServerU3Ed__5_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_mEEFA8CF744021755DBBCE43CC96FFEA863490FC7,
+	U3CGetDataFromServerU3Ed__5_System_Collections_IEnumerator_Reset_mD81356F66A8B8A7C827B9B790F4A662877A60903,
+	U3CGetDataFromServerU3Ed__5_System_Collections_IEnumerator_get_Current_m4BBA4BB15891813BA38458D4F7AFAA6C8BE1C919,
 	Loading_animation_StartLoading_m1C65E2A4018DC55A652D8EFA0EA3740FF6231635,
 	Loading_animation_LoadingCoroutine_m65897B8790261113863318A80AC43DBE2CB1875D,
 	Loading_animation__ctor_mBD9E319B3C8AE35D72BBAAEBF36AE5122C2713B2,
@@ -657,10 +691,12 @@ static Il2CppMethodPointer s_methodPointers[321] =
 	U3CWarpTextU3Ed__8_System_Collections_IEnumerator_Reset_m07746C332D2D8CE5DEA59873C26F2FAD4B369B42,
 	U3CWarpTextU3Ed__8_System_Collections_IEnumerator_get_Current_m71D7F84D9DEF63BEC6B44866515DDCF35B142A19,
 };
-static const int32_t s_InvokerIndices[321] = 
+static const int32_t s_InvokerIndices[338] = 
 {
 	4446,
 	4446,
+	4446,
+	4446,
 	3146,
 	1922,
 	4446,
@@ -680,10 +716,25 @@ static const int32_t s_InvokerIndices[321] =
 	3554,
 	4446,
 	4446,
+	4446,
+	4446,
 	3146,
 	1922,
 	4446,
-	6399,
+	6400,
+	4446,
+	3146,
+	3554,
+	4446,
+	4273,
+	4348,
+	4446,
+	4348,
+	4446,
+	3146,
+	1922,
+	4446,
+	6400,
 	4446,
 	3146,
 	3554,
@@ -728,7 +779,7 @@ static const int32_t s_InvokerIndices[321] =
 	4348,
 	4446,
 	4348,
-	6403,
+	6404,
 	4446,
 	871,
 	4446,
@@ -848,7 +899,7 @@ static const int32_t s_InvokerIndices[321] =
 	4348,
 	4348,
 	4446,
-	6399,
+	6400,
 	3554,
 	4446,
 	4273,
@@ -985,7 +1036,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
 const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
 {
 	"Assembly-CSharp.dll",
-	321,
+	338,
 	s_methodPointers,
 	0,
 	NULL,

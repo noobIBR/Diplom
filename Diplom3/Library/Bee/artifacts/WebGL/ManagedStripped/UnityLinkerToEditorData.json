@@ -36,7 +36,7 @@
           {
             "name": "AudioBehaviour",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -51,7 +51,7 @@
           {
             "name": "AudioListener",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -89,7 +89,7 @@
           {
             "name": "Camera",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -110,7 +110,7 @@
           {
             "name": "Cubemap",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -131,7 +131,7 @@
           {
             "name": "EditorExtension",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 1,
@@ -146,7 +146,7 @@
           {
             "name": "GameObject",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -173,7 +173,7 @@
           {
             "name": "LevelGameManager",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 1,
@@ -182,7 +182,7 @@
           {
             "name": "Light",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -203,7 +203,7 @@
           {
             "name": "LightmapSettings",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -218,7 +218,7 @@
           {
             "name": "Material",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -227,7 +227,7 @@
           {
             "name": "Mesh",
             "scenes": [
-              "Assets/Scenes/C6F1.unity"
+              "Assets/Scenes/C6F1 RU.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -235,7 +235,7 @@
           {
             "name": "MeshFilter",
             "scenes": [
-              "Assets/Scenes/C6F1.unity"
+              "Assets/Scenes/C6F1 RU.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -243,7 +243,7 @@
           {
             "name": "MeshRenderer",
             "scenes": [
-              "Assets/Scenes/C6F1.unity"
+              "Assets/Scenes/C6F1 RU.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -251,7 +251,7 @@
           {
             "name": "MonoBehaviour",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -266,7 +266,7 @@
           {
             "name": "MonoScript",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 1,
@@ -275,7 +275,7 @@
           {
             "name": "NamedObject",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 1,
@@ -308,7 +308,7 @@
           {
             "name": "RectTransform",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -323,7 +323,7 @@
           {
             "name": "RenderSettings",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -356,7 +356,7 @@
           {
             "name": "Shader",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -377,7 +377,7 @@
           {
             "name": "Sprite",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -586,7 +586,7 @@
           {
             "name": "Collider",
             "scenes": [
-              "Assets/Scenes/C6F1.unity"
+              "Assets/Scenes/C6F1 RU.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -594,7 +594,7 @@
           {
             "name": "MeshCollider",
             "scenes": [
-              "Assets/Scenes/C6F1.unity"
+              "Assets/Scenes/C6F1 RU.unity"
             ],
             "dependencyType": 0,
             "icon": null
@@ -776,7 +776,7 @@
           {
             "name": "Font",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -826,7 +826,7 @@
           {
             "name": "Canvas",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,
@@ -841,7 +841,7 @@
           {
             "name": "CanvasRenderer",
             "scenes": [
-              "Assets/Scenes/C6F1.unity",
+              "Assets/Scenes/C6F1 RU.unity",
               "Assets/Scenes/Menu.unity"
             ],
             "dependencyType": 0,

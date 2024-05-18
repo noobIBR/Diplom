@@ -1,11 +1,14 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
+    - Appear_change_scene_button
     - Apply_material_to_subtoggle
     - Apply_material_to_toggle
     - Camera_limit
     - Change_scene
+    - Change_scene_by_number_and_campus
     - Get_data
+    - Get_data_to_search_by_number
     - Loading_animation
     - Mouse_move
     - Show_data_canvass
@@ -78,6 +81,30 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
+  - assembly: UnityEngine.UI
+    fullTypeName: UnityEngine.UI.Text
+    methodName: set_text
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Change_scene_by_number_and_campus
+    methodName: LoadScene
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.UI
+    fullTypeName: UnityEngine.UI.Text
+    methodName: set_text
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Change_scene_by_number_and_campus
+    methodName: LoadScene
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
@@ -201,6 +228,9 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
   - assembly: Assembly-CSharp
     fullTypeName: Change_scene
     methodName: LoadSceneByIndex
@@ -300,6 +330,30 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Loading_animation
+    methodName: StartLoading
+  - assembly: Assembly-CSharp
+    fullTypeName: Get_data_to_search_by_number
+    methodName: OnSubmit
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: Assembly-CSharp
+    fullTypeName: Loading_animation
+    methodName: StartLoading
+  - assembly: Assembly-CSharp
+    fullTypeName: Get_data_to_search_by_number
+    methodName: OnSubmit
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
@@ -324,6 +378,9 @@ ScriptsOnlyBuild:
   - assembly: UnityEngine.UI
     fullTypeName: UnityEngine.UI.Text
     methodName: set_text
+  - assembly: UnityEngine.CoreModule
+    fullTypeName: UnityEngine.GameObject
+    methodName: SetActive
   - assembly: UnityEngine.CoreModule
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
@@ -406,7 +463,7 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.GameObject
     methodName: SetActive
   sceneClasses:
-    Assets/Scenes/C6F1.unity:
+    Assets/Scenes/C6F1 RU.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -436,45 +493,45 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1600}
+      Script: {instanceID: 1602}
     - Class: 114
-      Script: {instanceID: 1904}
+      Script: {instanceID: 2308}
     - Class: 114
-      Script: {instanceID: 2302}
+      Script: {instanceID: 2462}
     - Class: 114
-      Script: {instanceID: 2456}
+      Script: {instanceID: 2604}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2808}
     - Class: 114
-      Script: {instanceID: 2798}
+      Script: {instanceID: 3030}
     - Class: 114
-      Script: {instanceID: 3086}
+      Script: {instanceID: 3100}
     - Class: 114
-      Script: {instanceID: 4946}
+      Script: {instanceID: 4326}
     - Class: 114
-      Script: {instanceID: 5004}
+      Script: {instanceID: 4478}
     - Class: 114
-      Script: {instanceID: 5250}
+      Script: {instanceID: 4836}
     - Class: 114
-      Script: {instanceID: 5546}
+      Script: {instanceID: 4928}
     - Class: 114
-      Script: {instanceID: 5696}
+      Script: {instanceID: 4990}
     - Class: 114
-      Script: {instanceID: 6006}
+      Script: {instanceID: 5050}
     - Class: 114
-      Script: {instanceID: 7792}
+      Script: {instanceID: 5298}
     - Class: 114
-      Script: {instanceID: 7820}
+      Script: {instanceID: 5596}
     - Class: 114
-      Script: {instanceID: 7848}
+      Script: {instanceID: 5748}
     - Class: 114
-      Script: {instanceID: 7868}
+      Script: {instanceID: 6064}
     - Class: 114
-      Script: {instanceID: 7924}
+      Script: {instanceID: 6294}
     - Class: 114
-      Script: {instanceID: 7936}
+      Script: {instanceID: 7636}
     - Class: 114
-      Script: {instanceID: 60112}
+      Script: {instanceID: 43574}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -515,37 +572,45 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1600}
+      Script: {instanceID: 1602}
     - Class: 114
-      Script: {instanceID: 2178}
+      Script: {instanceID: 2182}
     - Class: 114
-      Script: {instanceID: 2302}
+      Script: {instanceID: 2308}
     - Class: 114
-      Script: {instanceID: 2598}
+      Script: {instanceID: 2604}
     - Class: 114
-      Script: {instanceID: 2798}
+      Script: {instanceID: 2808}
     - Class: 114
-      Script: {instanceID: 2846}
+      Script: {instanceID: 2856}
     - Class: 114
-      Script: {instanceID: 3086}
+      Script: {instanceID: 3030}
     - Class: 114
-      Script: {instanceID: 3958}
+      Script: {instanceID: 3100}
     - Class: 114
-      Script: {instanceID: 4062}
+      Script: {instanceID: 3978}
     - Class: 114
-      Script: {instanceID: 4308}
+      Script: {instanceID: 4086}
     - Class: 114
-      Script: {instanceID: 5004}
+      Script: {instanceID: 4338}
     - Class: 114
-      Script: {instanceID: 5250}
+      Script: {instanceID: 4836}
     - Class: 114
-      Script: {instanceID: 5546}
+      Script: {instanceID: 5050}
     - Class: 114
-      Script: {instanceID: 5696}
+      Script: {instanceID: 5298}
     - Class: 114
-      Script: {instanceID: 6006}
+      Script: {instanceID: 5596}
     - Class: 114
-      Script: {instanceID: 7936}
+      Script: {instanceID: 5748}
+    - Class: 114
+      Script: {instanceID: 6064}
+    - Class: 114
+      Script: {instanceID: 29526}
+    - Class: 114
+      Script: {instanceID: 133144}
+    - Class: 114
+      Script: {instanceID: 133158}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -799,6 +864,12 @@ ScriptsOnlyBuild:
     className: UnityOnDropdownValueChangedMessageListener
   - hash:
       serializedVersion: 2
+      Hash: ce60608c54e5c74c504a042bcb44ce82
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Loading_animation
+  - hash:
+      serializedVersion: 2
       Hash: 1d830bc5cfaaf24301dffea2877f4bea
     assemblyName: Assembly-CSharp
     namespaceName: TMPro.Examples
@@ -1033,6 +1104,12 @@ ScriptsOnlyBuild:
     className: TMP_SubMeshUI
   - hash:
       serializedVersion: 2
+      Hash: 55e44e212a0df3b6b9d6c7e383e176f9
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Apply_material_to_subtoggle
+  - hash:
+      serializedVersion: 2
       Hash: 9078325c2a6f6a2d9612ade897511860
     assemblyName: Unity.TextMeshPro
     namespaceName: TMPro
@@ -1061,6 +1138,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp
     namespaceName: TMPro.Examples
     className: TextConsoleSimulator
+  - hash:
+      serializedVersion: 2
+      Hash: 9bff3379caf5b72b83920ac33df5764b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Show_data_canvass
   - hash:
       serializedVersion: 2
       Hash: 5a1710e1ce9ddf5eb06e0d2693171f49
@@ -1135,6 +1218,12 @@ ScriptsOnlyBuild:
     className: AnimationPlayableAsset
   - hash:
       serializedVersion: 2
+      Hash: 2da74403efc0651cff83005d9301c0b1
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Change_scene
+  - hash:
+      serializedVersion: 2
       Hash: 47ee34eb8b6021efa0289dbbb17a5a85
     assemblyName: Unity.TextMeshPro
     namespaceName: TMPro
@@ -1157,6 +1246,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.UI
     className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: bafad88898a6f41ea3ac69aec7cf431b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Apply_material_to_toggle
   - hash:
       serializedVersion: 2
       Hash: 522f6865b4ec12522e602206785309f8
@@ -1337,6 +1432,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro
     namespaceName: TMPro
     className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: f15ebe27045a83a026436eaa4fcb930d
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Camera_limit
   - hash:
       serializedVersion: 2
       Hash: 7fdd3ee28e9042c3ec83463d0bb3b230
@@ -1561,6 +1662,12 @@ ScriptsOnlyBuild:
     className: VertexZoom
   - hash:
       serializedVersion: 2
+      Hash: d9a53dcdb5a93e3f08526f0514f55ad7
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Get_data
+  - hash:
+      serializedVersion: 2
       Hash: ff76cf6cf52b4db7b95af6ffadca9288
     assemblyName: Unity.Timeline
     namespaceName: UnityEngine.Timeline
@@ -1603,48 +1710,24 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: f15ebe27045a83a026436eaa4fcb930d
+      Hash: 6caf0115cd2b5f4c591634f5b53ad979
     assemblyName: Assembly-CSharp
     namespaceName: 
-    className: Camera_limit
+    className: Get_data_to_search_by_number
   - hash:
       serializedVersion: 2
-      Hash: ce60608c54e5c74c504a042bcb44ce82
+      Hash: 93a2adba6d813a422e4932296bf9f054
     assemblyName: Assembly-CSharp
     namespaceName: 
-    className: Loading_animation
+    className: Change_scene_by_number_and_campus
   - hash:
       serializedVersion: 2
-      Hash: 55e44e212a0df3b6b9d6c7e383e176f9
+      Hash: ecb8666b9686806286385b771ea4e4f4
     assemblyName: Assembly-CSharp
     namespaceName: 
-    className: Apply_material_to_subtoggle
-  - hash:
-      serializedVersion: 2
-      Hash: bafad88898a6f41ea3ac69aec7cf431b
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Apply_material_to_toggle
-  - hash:
-      serializedVersion: 2
-      Hash: d9a53dcdb5a93e3f08526f0514f55ad7
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Get_data
-  - hash:
-      serializedVersion: 2
-      Hash: 2da74403efc0651cff83005d9301c0b1
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Change_scene
-  - hash:
-      serializedVersion: 2
-      Hash: 9bff3379caf5b72b83920ac33df5764b
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Show_data_canvass
+    className: Appear_change_scene_button
   platform: 20
   scenePathNames:
   - Assets/Scenes/Menu.unity
-  - Assets/Scenes/C6F1.unity
+  - Assets/Scenes/C6F1 RU.unity
   playerPath: "D:/\u0423\u0423\u041D\u0438\u0422/\u0414\u0438\u043F\u043B\u043E\u043C/Server2/wwwroot"

@@ -39,22 +39,32 @@ public class Get_data : MonoBehaviour
 
     public void ParsingData(string data, string lang)
     {
+        string resultText = "";
         string[] values_name;
-        if (lang == "ru")
+        if (data == null)
         {
-            values_name = new string[] { "Наименование: ", "Тип помещения: ", "Корпус: ", "Этаж: ", "Номер помещения: ", "Кафедра: ", "Кол-во мест: ", "Оборудование: " };
+            if (lang == "ru")
+                resultText = "Ничего не найдено";
+            else
+                resultText = "Data Not Found";
         }
         else
         {
-            values_name = new string[] { "Name: ", "Room type: ", "Campus: ", "Floor: ", "Room number: ", "Institute: ", "Number of seats: ", "Equipment: " };
-        }
-        string[] values = data.Split(',').Select(s => s.Trim()).ToArray();
-        string resultText = "";
-        for (int i = 0; i < values.Length; i++)
-        {
-            if (!string.IsNullOrEmpty(values[i]))
+            if (lang == "ru")
             {
-                resultText += values_name[i] + values[i] + "\n";
+                values_name = new string[] { "Наименование: ", "Тип помещения: ", "Корпус: ", "Этаж: ", "Номер помещения: ", "Кафедра: ", "Кол-во мест: ", "Оборудование: " };
+            }
+            else
+            {
+                values_name = new string[] { "Name: ", "Room type: ", "Campus: ", "Floor: ", "Room number: ", "Institute: ", "Number of seats: ", "Equipment: " };
+            }
+            string[] values = data.Split(',').Select(s => s.Trim()).ToArray();
+            for (int i = 0; i < values.Length; i++)
+            {
+                if (!string.IsNullOrEmpty(values[i]))
+                {
+                    resultText += values_name[i] + values[i] + "\n";
+                }
             }
         }
 
