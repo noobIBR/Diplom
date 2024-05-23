@@ -19,7 +19,7 @@ namespace Server2.Controllers
         }
 
         [HttpGet]
-        public async Task<string> GetTextToCanvasData([FromQuery] string campus, [FromQuery] string aud_num, [FromQuery] string floor, [FromQuery] string lang)
+        public async Task<string> PushData([FromQuery] string campus, [FromQuery] string aud_num, [FromQuery] string floor, [FromQuery] string lang)
         {
             try
             {

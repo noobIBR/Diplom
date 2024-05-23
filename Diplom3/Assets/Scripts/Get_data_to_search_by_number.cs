@@ -41,14 +41,14 @@ public class Get_data_to_search_by_number : MonoBehaviour
     }
     public void ParsingData(string data, string lang)
     {
-        string resultText = "";
+        string ResultText = "";
         string[] values_name;
         if (data == "")
         {
             if (lang == "ru")
-                resultText = "Ничего не найдено";
+                ResultText = "Ничего не найдено";
             else
-                resultText = "Data Not Found";
+                ResultText = "Data Not Found";
         }
         else
         {
@@ -65,11 +65,11 @@ public class Get_data_to_search_by_number : MonoBehaviour
             {
                 if (!string.IsNullOrEmpty(values[i]))
                 {
-                    resultText += values_name[i] + values[i] + "\n";
+                    ResultText += values_name[i] + values[i] + "\n";
                 }
             }
         }
 
-        TextCanvas.text = resultText;
+        TextCanvas.text = ResultText;
     }
 }

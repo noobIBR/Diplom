@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/C6F1 RU.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/C6F1 ENG.unity
+    guid: 6bf0d7e6550f8604589c510f67082bc0
+  - enabled: 1
+    path: Assets/Scenes/C6F2 RU.unity
+    guid: d62d00b4f0f287a4881e5c2d95782c42
+  - enabled: 1
+    path: Assets/Scenes/C6F2 ENG.unity
+    guid: 35d4a36d7c85c6741818de437b1d01ff
   m_configObjects: {}

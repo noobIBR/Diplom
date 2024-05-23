@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\controllers\\apply_material_to_subtoggle_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:controllers\\apply_material_to_subtoggle_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\controllers\\push_data_by_name_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:controllers\\push_data_by_name_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\controllers\\push_data_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:controllers\\push_data_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\models\\audience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:models\\audience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "audience.cs",
-              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Models\\audience.cs",
-              "RelativeDocumentMoniker": "Models\\audience.cs",
-              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Models\\audience.cs",
-              "RelativeToolTip": "Models\\audience.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAYwBwAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T13:56:17.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Apply_material_to_subtoggle_controller.cs",
-              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Apply_material_to_subtoggle_controller.cs",
-              "RelativeDocumentMoniker": "Controllers\\Apply_material_to_subtoggle_controller.cs",
-              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Apply_material_to_subtoggle_controller.cs",
-              "RelativeToolTip": "Controllers\\Apply_material_to_subtoggle_controller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Title": "Push_data_by_name_controller.cs",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Push_data_by_name_controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Push_data_by_name_controller.cs",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Push_data_by_name_controller.cs",
+              "RelativeToolTip": "Controllers\\Push_data_by_name_controller.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:08:40.418Z",
+              "WhenOpened": "2024-05-19T08:42:47.532Z",
               "EditorCaption": ""
             },
             {
@@ -58,10 +41,9 @@
               "RelativeDocumentMoniker": "Controllers\\Push_data_controller.cs",
               "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Push_data_controller.cs",
               "RelativeToolTip": "Controllers\\Push_data_controller.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAACPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T16:05:10.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T16:05:10.907Z"
             }
           ]
         }
