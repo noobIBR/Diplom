@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/C6F1 RU.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

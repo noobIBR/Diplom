@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 14f23c0a797e39e47a931f3c834cdbb3
+  - enabled: 1
+    path: Assets/Scenes/C6F1 RU.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/C6F1 ENG.unity
+    guid: 131482e0e470b794886dc94116f17169
+  - enabled: 1
+    path: Assets/Scenes/C6F2 RU.unity
+    guid: d62d00b4f0f287a4881e5c2d95782c42
+  - enabled: 1
+    path: Assets/Scenes/C6F2 ENG.unity
+    guid: 35d4a36d7c85c6741818de437b1d01ff
+  - enabled: 1
+    path: Assets/Scenes/C6F3 RU.unity
+    guid: 2fc16ccfffefd084c825569d32509614
+  - enabled: 1
+    path: Assets/Scenes/C6F3 ENG.unity
+    guid: bed35acc3b5cd4d4d91b8be552b500c1
+  - enabled: 1
+    path: Assets/Scenes/C6F4 RU.unity
+    guid: dda0b6b91e4188a40a2b60c282309653
+  - enabled: 1
+    path: Assets/Scenes/C6F4 ENG.unity
+    guid: 6e9d3d29021c4cc4c98cc5c0b6653936
+  - enabled: 1
+    path: Assets/Scenes/C6F5 RU.unity
+    guid: 5209fc4aa9675cf4f823b3f6db739fec
+  - enabled: 1
+    path: Assets/Scenes/C6F5 ENG.unity
+    guid: 1ad44025f46ca6d4481fdd5700ab3b91
+  - enabled: 1
+    path: Assets/Scenes/C6F6 RU.unity
+    guid: ec5dd45e57184824284dbf51c6cfdade
+  - enabled: 1
+    path: Assets/Scenes/C6F6 ENG.unity
+    guid: 17543fca1bff3914e809a3f18fff7495
+  - enabled: 1
+    path: Assets/Scenes/C1F1 RU.unity
+    guid: be2a3011da632854f958bbd8269b283f
+  - enabled: 1
+    path: Assets/Scenes/C1F1 ENG.unity
+    guid: a1aa8f6dfad214e4681b2400247e140a
+  - enabled: 1
+    path: Assets/Scenes/C1F2 RU.unity
+    guid: 56c3cea476be7bc478641a8128b916bb
+  - enabled: 1
+    path: Assets/Scenes/C1F2 ENG.unity
+    guid: cd9638293341cf448ba1eb4fecee4f0c
+  - enabled: 1
+    path: Assets/Scenes/C1F3 RU.unity
+    guid: c91e3d9535842bf4e99a1967040f4e17
+  - enabled: 1
+    path: Assets/Scenes/C1F3 ENG.unity
+    guid: 4491a3e46994879449071a433bc23037
+  - enabled: 1
+    path: Assets/Scenes/C1F4 RU.unity
+    guid: 0d888f4219e39a548affab31fa0d20c5
+  - enabled: 1
+    path: Assets/Scenes/C1F4 ENG.unity
+    guid: 83fc57091f617344eb7e8fb0d0d08336
+  m_configObjects: {}

@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\controllers\\apply_material_to_subtoggle_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:controllers\\apply_material_to_subtoggle_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:controllers\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\controllers\\push_data_by_name_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:controllers\\push_data_by_name_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\controllers\\push_data_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:controllers\\push_data_controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\models\\audience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:models\\audience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|d:\\\u0443\u0443\u043D\u0438\u0442\\\u0434\u0438\u043F\u043B\u043E\u043C\\server2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97489976-C7BC-4EE4-AA4A-0D94D70909D2}|Server2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Apply_material_to_subtoggle_controller.cs",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Apply_material_to_subtoggle_controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Apply_material_to_subtoggle_controller.cs",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Apply_material_to_subtoggle_controller.cs",
+              "RelativeToolTip": "Controllers\\Apply_material_to_subtoggle_controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T12:52:07.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T13:57:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T13:58:04.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-24T13:58:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Controllers\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:42:32.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Push_data_by_name_controller.cs",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Push_data_by_name_controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Push_data_by_name_controller.cs",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Push_data_by_name_controller.cs",
+              "RelativeToolTip": "Controllers\\Push_data_by_name_controller.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:42:47.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Push_data_controller.cs",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Push_data_controller.cs",
+              "RelativeDocumentMoniker": "Controllers\\Push_data_controller.cs",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Controllers\\Push_data_controller.cs",
+              "RelativeToolTip": "Controllers\\Push_data_controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:05:10.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:55:16.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:55:18.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "audience.cs",
+              "DocumentMoniker": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Models\\audience.cs",
+              "RelativeDocumentMoniker": "Models\\audience.cs",
+              "ToolTip": "D:\\\u0423\u0423\u041D\u0438\u0422\\\u0414\u0438\u043F\u043B\u043E\u043C\\Server2\\Models\\audience.cs",
+              "RelativeToolTip": "Models\\audience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T14:55:14.354Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
